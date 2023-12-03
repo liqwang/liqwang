@@ -8,11 +8,7 @@ I ❤️ coding
 
 ### 🔥 Tech Stack
 
-Todo
-
-### 🛠 Tools I use
-
-Todo
+![Tech stack](https://skillicons.dev/icons?i=python,java,spring,maven,mysql,redis,kafka,nginx,docker,git&theme=light)
 
 ### 🚀 Contribution
 <picture>
