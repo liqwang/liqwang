@@ -10,7 +10,7 @@ I ❤️ coding
 
 ![Tech stack](https://skillicons.dev/icons?i=python,java,spring,maven,mysql,redis,kafka,nginx,docker,git&theme=light)
 
-### 🚀 Contribution
+### 🚀 Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-snake.svg" />
