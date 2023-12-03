@@ -14,5 +14,14 @@ Todo
 
 Todo
 
+### 🚀 Contribution
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-snake.svg" />
+  <img alt="github-snake" src="./assets/contribution-snake.svg" />
+</picture>
+
+### ⚡ Stats
+
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=QuanQuan-CHO&show_icons=true&hide_border=true" alt="QuanQuan-CHO's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuanQuan-CHO&layout=compact&hide_border=true&exclude_repo=QuanQuan-CHO.github.io&hide=html" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
