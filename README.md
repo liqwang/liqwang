@@ -1,7 +1,7 @@
 Hi, there 👋
 
 - 🎓 I'm an undergraduate major in Computer Science at [SUSTech](https://sustech.edu.cn/en)
-- 📚 Currently learning [Compiler](https://suif.stanford.edu/dragonbook)
+- 📚 Currently learning [React](https://react.dev) and [Solidity](https://soliditylang.org)
 - 🥰 Enjoy computer games([Steam](https://steamcommunity.com/profiles/76561198387161037)) and Japanese animations
 
 I ❤️ coding
