@@ -1,4 +1,4 @@
-Hi, there 👋
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"> Hi, there 👋
 
 - 🎓 BEng in Computer Science at [SUSTech](https://sustech.edu.cn/en) (Sep 2020 - July 2024)
 - 📚 Currently learning [React](https://react.dev) and [Solidity](https://soliditylang.org)
