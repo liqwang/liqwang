@@ -8,7 +8,7 @@ I ❤️ coding
 
 ### 🔥 Tech Stack
 
-![Tech stack](https://skillicons.dev/icons?i=python,java,spring,maven,mysql,redis,kafka,nginx,docker,git&theme=light)
+![Tech stack](https://skillicons.dev/icons?i=python,java,spring,maven,mysql,redis,kafka,prometheus,nginx,docker,git&theme=light)
 
 ### 🚀 Contributions
 <picture>
