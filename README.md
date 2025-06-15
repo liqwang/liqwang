@@ -2,7 +2,7 @@
 
 - 🎓 BEng in Computer Science at [SUSTech](https://sustech.edu.cn/en) (Sep. 2020 – Jul. 2024)
 - 📚 Currently learning [React](https://react.dev) and [Solidity](https://soliditylang.org)
-- 🥰 Enjoy computer games([Steam](https://steamcommunity.com/profiles/76561198387161037)) and Japanese animations
+- 🥰 Enjoy computer games([Steam](https://steamcommunity.com/profiles/76561198387161037/games/?tab=all)) and Japanese animations
 
 I ❤️ coding
 
