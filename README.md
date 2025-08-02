@@ -23,4 +23,4 @@ I ❤️ coding
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ### 👀 Page View
-![](https://profile-counter.glitch.me/liqwang/count.svg)
+![](https://count.getloli.com/@liqwang?theme=nixietube-1&scale=0.6)
