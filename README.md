@@ -19,7 +19,7 @@ I ❤️ coding
 
 ### ⚡ Stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=liqwang&show_icons=true&hide_border=true" alt="liqwang's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liqwang&layout=compact&hide_border=true&exclude_repo=liqwang.github.io&hide=html" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://readme-stats-fast.vercel.app/api?username=liqwang&show_icons=true&hide_border=true" alt="liqwang's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=liqwang&layout=compact&hide_border=true&exclude_repo=liqwang.github.io&hide=html" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ### 👀 Page View
